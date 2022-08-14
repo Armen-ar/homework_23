@@ -7,6 +7,7 @@ Content-Type: application/json
   "cmd1": "filter",
   "value1": "1.22.35.226",
   "cmd2": "map",
-  "value2": "5"
+  "value2": "6",
+  "cmd3": "limit",
+  "value3": "2"
 }
-
